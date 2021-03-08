@@ -1,0 +1,7 @@
+C:\Users\mdsto\Desktop\.Net\TrianguloEIMC\TrianguloEIMC\bin\Debug\TrianguloEIMC.exe.config
+C:\Users\mdsto\Desktop\.Net\TrianguloEIMC\TrianguloEIMC\bin\Debug\TrianguloEIMC.exe
+C:\Users\mdsto\Desktop\.Net\TrianguloEIMC\TrianguloEIMC\bin\Debug\TrianguloEIMC.pdb
+C:\Users\mdsto\Desktop\.Net\TrianguloEIMC\TrianguloEIMC\obj\Debug\TrianguloEIMC.csprojAssemblyReference.cache
+C:\Users\mdsto\Desktop\.Net\TrianguloEIMC\TrianguloEIMC\obj\Debug\TrianguloEIMC.csproj.CoreCompileInputs.cache
+C:\Users\mdsto\Desktop\.Net\TrianguloEIMC\TrianguloEIMC\obj\Debug\TrianguloEIMC.exe
+C:\Users\mdsto\Desktop\.Net\TrianguloEIMC\TrianguloEIMC\obj\Debug\TrianguloEIMC.pdb
